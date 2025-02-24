@@ -1,0 +1,13 @@
+/*
+**
+**	FClouds Engine.
+**
+		Copyright (c) WangFeng since 1999...
+*/
+
+#pragma once
+
+	#include "fce.h"
+
+	using namespace fce;
+	using namespace fce::gui;
